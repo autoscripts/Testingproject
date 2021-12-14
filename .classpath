@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="E:/javamrng/lib-framework/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
